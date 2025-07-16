@@ -29,6 +29,5 @@ Line, Bar, s – Visualizing trends & proportions
 
 Dashboard Perview - https://github.com/Sudeep-exe/IT-Expenditure-Dashboard/blob/main/IT%20EXPENDITURE%20DASHBOARD.pdf
 
-![image alt]( https://github.com/Sudeep-exe/IT-Expenditure-Dashboard/blob/main/IT%20EXPENDITURE%20DASHBOARD.pdf
-)
+![image alt]( https://github.com/Sudeep-exe/IT-Expenditure-Dashboard/blob/main/IT%20EXPENDITURE%20DASHBOARD.pdf?raw=true)
 
